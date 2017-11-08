@@ -79,6 +79,6 @@ echo " Tetap Multi Login Ganti Passnya baru Kill Lagi " | lolcat
 echo " Caranya pake Kill nomor PID " | lolcat
 echo "----------------------------------------------------------------"
 
-	echo "          DEVELOPED BY Inject69 " | lolcat
+	echo "          DEVELOPED BY AnonymousVpn8 " | lolcat
 echo "----------------------------------------------------------------"
 echo ""
